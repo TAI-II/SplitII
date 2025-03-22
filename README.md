@@ -47,35 +47,15 @@ Slogan: "Pagamentos Simplificados, Contas Divididas, Experiência Perfeita."
         - [6.2 Descritivo Funcional](#62-descritivo-funcional)
       - [7. Fotos](#7-fotos)
         - [7.1 Diretotio de fotos](#71-diretotio-de-fotos)
-  - [Objetivos:](#objetivos)
-  - [Funcionalidades](#funcionalidades)
-  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-    - [Frontend](#frontend)
-    - [Backend](#backend)
-    - [Outros](#outros)
-  - [Instalação](#instalação)
-    - [Pré-requisitos](#pré-requisitos)
-    - [Passos](#passos)
-
-
-#### 1. Produto
-##### [1.1 Visão Geral do Produto](https://github.com/TAI-II/Split/blob/main/Documenta%C3%A7%C3%A3o/1.%20Produto/1.1.%20Vis%C3%A3o%20Geral%20do%20Produto.md)
-##### [1.2 Canva](https://github.com/TAI-II/Split/blob/main/Documenta%C3%A7%C3%A3o/1.%20Produto/1.2.%20Canva.md)
-#### 2. Fluxos
-##### [2.1 Fluxos Definidos](https://github.com/TAI-II/Split/blob/main/Documenta%C3%A7%C3%A3o/2.%20Fluxos/2.1.%20Fluxos%20definidos.md)
-#### 3. Tecnologias
-##### [3.1 Tecnologias Frontend](https://github.com/TAI-II/Split/blob/main/Documenta%C3%A7%C3%A3o/3.%20Tecnologias/3.1.%20Tecnologias%20Font.md)
-##### [3.2 Tecnologias Backend](https://github.com/TAI-II/Split/blob/main/Documenta%C3%A7%C3%A3o/3.%20Tecnologias/3.2.%20Tecnologias%20Back.md)
-#### 4. Arquitetura
-##### [4.1 Arquitetura Definida](https://github.com/TAI-II/Split/blob/main/Documenta%C3%A7%C3%A3o/4.%20Arquitetura/4.1.%20Arquitetura%20Definida.md)
-#### 5. Design
-##### [5.1 Logo](https://github.com/TAI-II/Split/blob/main/Documenta%C3%A7%C3%A3o/5.%20Design/5.1.%20Logo.md)
-##### [5.2 Componentes UI](https://github.com/TAI-II/Split/blob/main/Documenta%C3%A7%C3%A3o/5.%20Design/5.2.%20Componentes%20UI.md)
-#### 6. Levantamento
-##### [6.1 Requisitos](https://github.com/TAI-II/Split/blob/main/Documenta%C3%A7%C3%A3o/6.%20Levantamento/6.1.%20Requisitos.md)
-##### [6.2 Descritivo Funcional](https://github.com/TAI-II/Split/blob/main/Documenta%C3%A7%C3%A3o/6.%20Levantamento/6.2.%20Descritivo%20Funcional.md)
-#### 7. Fotos
-##### [7.1 Diretotio de fotos](https://github.com/TAI-II/Split/tree/main/Documenta%C3%A7%C3%A3o/7.%20Fotos)
+      - [8. Objetivos:](#objetivos)
+      - [9. Funcionalidades](#funcionalidades)
+      - [10. Tecnologias Utilizadas](#tecnologias-utilizadas)
+        - [10.1 Frontend](#frontend)
+        - [10.2 Backend](#backend)
+        - [10.3 Outros](#outros)
+      - [11. Instalação](#instalação)
+        - [11.1 Pré-requisitos](#pré-requisitos)
+        - [11.2 Passos](#passos)
 
 
 ## Objetivos:
